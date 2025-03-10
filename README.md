@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/LopamudraMishra/LopamudraMishra)
 <h1 align="center">Hi 👋, I'm Lopamudra Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopamudramishra&label=Profile%20views&color=0e75b6&style=flat" alt="lopamudramishra" /> </p>
