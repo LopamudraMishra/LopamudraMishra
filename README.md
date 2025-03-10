@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/59fc60c71a5bfaf918be50fa4029810272f7da7aff16df440d0f971bdbb5f6ce/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://github.com/LopamudraMishra/LopamudraMishra)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://github.com/LopamudraMishra/LopamudraMishra)
 <h1 align="center">Hi 👋, I'm Lopamudra Mishra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lopamudramishra&label=Profile%20views&color=0e75b6&style=flat" alt="lopamudramishra" /> </p>
